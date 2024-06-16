@@ -6,7 +6,23 @@
  * 이전 버튼 : <a href="https://www.flaticon.com/free-icons/left-arrow" title="left arrow icons">Left arrow icons created by Arkinasi - Flaticon</a>
  * 다음 버튼 : <a href="https://www.flaticon.com/free-icons/arrow" title="arrow icons">Arrow icons created by Handicon - Flaticon</a>
  * 저장 아이콘 : <a href="https://www.flaticon.com/free-icons/save" title="save icons">Save icons created by Yogi Aprelliyanto - Flaticon</a>
- * 
+ * 홈 아이콘 : <a href="https://www.flaticon.com/free-icons/home-button" title="home button icons">Home button icons created by Freepik - Flaticon</a>
+ * 지하철 아이콘 : <a href="https://www.flaticon.com/free-icons/subway" title="subway icons">Subway icons created by Good Ware - Flaticon</a>
+ * 사이렌 아이콘 : <a href="https://www.flaticon.com/free-icons/alarm" title="alarm icons">Alarm icons created by Freepik - Flaticon</a>
+ * 오토바이 아이콘 : <a href="https://www.flaticon.com/free-icons/motorcycle" title="motorcycle icons">Motorcycle icons created by Freepik - Flaticon</a>
+ * 물 아이콘 : <a href="https://www.flaticon.com/free-icons/water-drop" title="water drop icons">Water drop icons created by Freepik - Flaticon</a>
+ * 노크 아이콘 : <a href="https://www.flaticon.com/free-icons/knock" title="knock icons">Knock icons created by Three musketeers - Flaticon</a>
+ * 기차 아이콘 : <a href="https://www.flaticon.com/free-icons/train" title="train icons">Train icons created by Freepik - Flaticon</a>
+ * 버스 아이콘 : <a href="https://www.flaticon.com/free-icons/bus" title="bus icons">Bus icons created by Freepik - Flaticon</a>
+ * 세탁기 아이콘 : <a href="https://www.flaticon.com/free-icons/dryer" title="dryer icons">Dryer icons created by Good Ware - Flaticon</a>
+ * 개 아이콘 : <a href="https://www.flaticon.com/free-icons/dog" title="dog icons">Dog icons created by Freepik - Flaticon</a>
+ * 고양이 아이콘 : <a href="https://www.flaticon.com/free-icons/cat" title="cat icons">Cat icons created by Freepik - Flaticon</a>
+ * 벌 아이콘 : <a href="https://www.flaticon.com/free-icons/bee" title="bee icons">Bee icons created by Freepik - Flaticon</a>
+ * 이야이 아이콘 : <a href="https://www.flaticon.com/free-icons/speak" title="speak icons">Speak icons created by yut1655 - Flaticon</a>
+ * 발자국 아이콘 : <a href="https://www.flaticon.com/free-icons/footprints" title="footprints icons">Footprints icons created by Freepik - Flaticon</a>
+ * 도움 요청 아이콘 : <a href="https://www.flaticon.com/free-icons/shout" title="shout icons">Shout icons created by Leremy - Flaticon</a>
+ * 우는 모양 아이콘 : <a href="https://www.flaticon.com/free-icons/shout" title="shout icons">Shout icons created by Leremy - Flaticon</a>
+ * 응급차 아이콘 : <a href="https://www.flaticon.com/free-icons/ambulance" title="ambulance icons">Ambulance icons created by Freepik - Flaticon</a>
  * 
  * [폰트]
  * Gmarket체 : https://corp.gmarket.com/
