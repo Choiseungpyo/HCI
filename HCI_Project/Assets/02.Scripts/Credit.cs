@@ -36,7 +36,8 @@
  * 자이언츠 : https://www.giantsclub.com/html/?pcode=1007
  * 가나 초콜릿 : https://www.lottewellfood.com/prcenter/gana
  * 
- * 
+ * [진동 소리]
+ * https://pixabay.com/ko/sound-effects/search/vibration/
  * 
  * 
  * 

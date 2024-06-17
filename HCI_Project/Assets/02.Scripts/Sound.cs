@@ -22,7 +22,6 @@ public class Sound : MonoBehaviour
     {
         SetTypeActivationStatus(0);
         SetTypeTxt(0);
-        //InitSoundIcon();
     }
 
 
