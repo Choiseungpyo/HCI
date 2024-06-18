@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/01.Scene/Main.unity
-    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+    path: Assets/01.Scene/Main 1.unity
+    guid: d80610b5a31c266459e9e619828ca0b4
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 1d018cd2dc0566f43949a0e158a4f84c, type: 2}
     com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 223804bde87e3664abf1df74a11055fb, type: 2}
