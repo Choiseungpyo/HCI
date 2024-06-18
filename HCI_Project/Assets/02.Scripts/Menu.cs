@@ -65,7 +65,7 @@ public class Menu : MonoBehaviour
         for (int i = 0; i < IconBtn.Length; i++)
         {
             if (i == index)
-                IconNameTxt[0].color = Color.black;
+                IconNameTxt[i].color = Color.black;
             else
                 IconNameTxt[i].color = Color.gray;
         }

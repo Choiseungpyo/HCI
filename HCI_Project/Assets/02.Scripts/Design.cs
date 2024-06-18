@@ -128,10 +128,18 @@ public class Design : MonoBehaviour
         else
             Debug.LogWarning(index);
 
+        
         Debug.Log(obj.transform.parent.name);
         Color color = obj.GetComponent<Image>().color;
+        ChangeBeforeColor(obj, CurrentImg[index].color);
         SetCurrentImage(index, color);
         SetOriginalImg(index, color);
+       
+    }
+
+    public void ChangeBeforeColor(GameObject obj, Color color)
+    {
+        obj.transform.parent.GetChild(7).GetComponent<Image>().color = color;
     }
 
     // 폰트 관련 ------------------------------------------------------------------------------------------
